@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>AigroQuantumSaaS</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #0B1020;
+      color: #18e2fd;
+    }
+    .hero-section {
+      background-image: url("image4.png");
+      background-size: cover;
+      background-position: center;
+    }
+    .text-galaxy-blue,
+    .wm-cyan {
+      color: #18e2fd;
+    }
+    .bg-galaxy-dark {
+      background-color: #0B1020;
+    }
+    .border-galaxy-accent {
+      border-color: #18e2fd;
+    }
+    .hover-galaxy-accent:hover {
+      color: #18e2fd;
+    }
+    .bg-galaxy-accent {
+      background-color: #18e2fd;
+    }
+    .hover-bg-galaxy-accent-darker:hover {
+      background-color: #0ea5e9;
+    }
+    .ring-galaxy-accent:focus {
+      --tw-ring-color: #18e2fd;
+    }
+    .prose {
+      color: #b0e2fd;
+    }
+    .prose h1,
+    .prose h2,
+    .prose h3,
+    .prose h4,
+    .prose h5,
+    .prose h6 {
+      color: #18e2fd;
+    }
+    .prose a {
+      color: #38bdf8;
+    }
+    .prose strong {
+      color: #18e2fd;
+    }
+    .prose ul>li::before {
+      background-color: #18e2fd;
+    }
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #13224c;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #18e2fd;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #0ea5e9;
+    }
+    .navbar-absolute {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      z-index: 30;
+    }
+    .navbar-blur {
+      background: rgba(11, 16, 32, 0.70);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      box-shadow: 0 2px 40px 0 rgba(24, 226, 253, .14);
+      border-bottom: 1px solid rgba(24, 226, 253, 0.11);
+    }
+    .z-overlap {
+      position: relative;
+      z-index: 0;
+    }
+    .form-glass {
+      background: rgba(20, 30, 60, 0.72);
+      border: 1.5px solid rgba(24, 226, 253, 0.13);
+      box-shadow: 0 4px 40px 0 rgba(24, 226, 253, 0.10);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+    }
+    .input-glass {
+      background: rgba(13, 24, 45, 0.68);
+      border: 1.5px solid #18e2fd33;
+      color: #18e2fd;
+    }
+    .input-glass::placeholder {
+      color: #38bdf8bb;
+      opacity: 1;
+    }
+    .input-glass:focus {
+      outline: 2px solid #18e2fd;
+      outline-offset: 0;
+      background: rgba(13, 24, 45, 0.89);
+    }
+  </style>
+</head>
+<body class="bg-galaxy-dark text-galaxy-blue">
+<div class="min-h-screen flex flex-col">
+<section class="hero-section h-screen flex flex-col items-center justify-center relative text-white z-overlap">
+<div class="absolute inset-0 bg-black bg-opacity-40"></div>
+<nav class="navbar-absolute navbar-blur">
+<div class="container mx-auto px-6 py-4 flex flex-col md:flex-row justify-between items-center">
+<div class="flex items-center mb-4 md:mb-0">
+<span class="material-icons text-3xl mr-2 text-cyan-400">hub</span>
+<span class="font-semibold text-xl wm-cyan">AigroQuantumSaaS</span>
+</div>
+<div class="flex flex-col md:flex-row items-center space-y-3 md:space-y-0 md:space-x-6">
+<a class="hover-galaxy-accent transition duration-300" href="#overview">Visão Geral</a>
+<a class="hover-galaxy-accent transition duration-300" href="#repositories">Repositórios</a>
+<a class="hover-galaxy-accent transition duration-300" href="#pricing">Preços</a>
+<a class="hover-galaxy-accent transition duration-300" href="#docs">Documentação</a>
+<a class="hover-galaxy-accent transition duration-300" href="#contact">Contato</a>
+<button class="bg-galaxy-accent hover-bg-galaxy-accent-darker text-white font-semibold py-2.5 px-5 rounded-lg shadow-md transition duration-300 flex items-center text-sm">
+<span class="material-icons mr-2 text-base">add_circle_outline</span>
+              Novo Projeto
+            </button>
+</div>
+</div>
+</nav>
+<div class="z-10 flex flex-col items-center w-full px-4">
+<h1 class="text-5xl md:text-7xl font-bold text-center drop-shadow-lg wm-cyan mt-36 md:mt-40">#AigroQuantumSaaS</h1>
+<p class="mt-6 text-xl md:text-2xl text-cyan-300 font-medium text-center max-w-2xl">Sua plataforma quantum SaaS, modular e inovadora. Crie, gerencie e evolua suas soluções com tecnologia de ponta.</p>
+<form class="form-glass w-full max-w-md mx-auto mt-12 p-8 rounded-2xl flex flex-col gap-4 shadow-2xl">
+<h2 class="text-2xl md:text-3xl font-bold text-center mb-2 wm-cyan">Comece agora grátis</h2>
+<input class="input-glass py-3 px-4 rounded-lg transition focus:ring-2 focus:ring-cyan-500 text-lg" placeholder="Seu nome completo" required="" type="text"/>
+<input class="input-glass py-3 px-4 rounded-lg transition focus:ring-2 focus:ring-cyan-500 text-lg" placeholder="Seu e-mail" required="" type="email"/>
+<input class="input-glass py-3 px-4 rounded-lg transition focus:ring-2 focus:ring-cyan-500 text-lg" placeholder="Crie uma senha" required="" type="password"/>
+<button class="bg-galaxy-accent hover:bg-cyan-400 text-[#0B1020] font-semibold rounded-lg py-3 px-6 mt-2 transition text-lg shadow-md" type="submit">Criar minha conta</button>
+<div class="text-center text-sm text-cyan-400 mt-2">Já tem conta? <a class="underline hover:text-cyan-300" href="#">Entrar</a></div>
+</form>
+</div>
+</section>
+<main class="container mx-auto px-4 sm:px-6 lg:px-8 py-12 flex-grow" id="overview">
+<div class="bg-slate-800 shadow-xl rounded-lg p-6 md:p-10">
+<div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 pb-6 border-b border-slate-700">
+<div>
+<h2 class="text-3xl sm:text-4xl font-bold wm-cyan">AigroQuantumSaaS Deep Tech <span class="text-cyan-400">#164537</span></h2>
+<p class="text-sm text-slate-400 mt-2">
+<span class="font-semibold text-cyan-500">ReginaldoGonssavre</span> perguntou isto em <span class="font-semibold text-cyan-500">Feed</span>
+</p>
+</div>
+<div class="mt-6 md:mt-0 flex space-x-3">
+<button class="bg-slate-700 hover:bg-slate-600 text-galaxy-blue font-medium py-2.5 px-5 rounded-lg text-sm flex items-center transition duration-300">
+<span class="material-icons text-lg mr-1.5">edit</span>
+              Editar
+            </button>
+<button class="bg-red-600 hover:bg-red-700 text-white font-medium py-2.5 px-5 rounded-lg text-sm flex items-center transition duration-300">
+<span class="material-icons text-lg mr-1.5">delete</span>
+              Deletar
+            </button>
+</div>
+</div>
+<div class="flex flex-col lg:flex-row gap-10">
+<div class="flex-1">
+<div class="flex items-center mb-6">
+<img alt="ReginaldoGonssavre avatar" class="w-12 h-12 rounded-full mr-4 border-2 border-cyan-400" src="https://lh3.googleusercontent.com/aida-public/AB6AXuATyoZTAjESghteZtCXxisuNFXa7Mdru6zUPPnRxh9cgbJmLh2ObHZoG5YerTP3PxqgQAKoJq0i-s1ELyYURqOEvU7o1YqEaoLttGDhCoJABt5_fQFIiAABX285JBeLFvKHTgEQe3YHYsdSqjVAYSBx8FOsQv78yrZq64l6ZDbo8BEgZ1Ws82yBsWbPJfhenjpPdBR6svsX4tXp-w1pfUa3qHPbamapvzFcGf9Caut4weRqOhf-QicFdjmzN2k1fE7j0TkxgbR3jsg-"/>
+<div>
+<p class="font-semibold wm-cyan text-lg">ReginaldoGonssavre</p>
+<p class="text-xs text-slate-400">2 horas atrás</p>
+</div>
+</div>
+<div class="mb-8">
+<label class="block text-sm font-medium text-slate-300 mb-1.5" for="topic-area">Selecionar Área do Tópico</label>
+<select class="w-full max-w-md bg-slate-700 border border-slate-600 text-galaxy-blue text-sm rounded-lg focus:ring-cyan-500 focus:border-cyan-500 p-3 ring-galaxy-accent" id="topic-area" name="topic-area">
+<option selected="">Mostrar &amp; Contar</option>
+<option value="general">Discussão Geral</option>
+<option value="tech">Perguntas Técnicas</option>
+<option value="ideas">Ideias &amp; Sugestões</option>
+</select>
+</div>
+<div class="prose prose-lg max-w-none text-slate-300">
+<h3 class="text-2xl font-semibold wm-cyan mb-4">AigroQuantumSaaS Deep Tech Solutions,</h3>
+<p>🚀 AigroQuantumSaaS: Soluções Deep Tech para um Futuro Orientado pela Quântica</p>
+<p>Bem-vindos à discussão oficial do projeto AigroQuantumSaaS, uma iniciativa visionária que une Inteligência Artificial, Computação Quântica e Arquitetura SaaS Modular para resolver problemas reais em múltiplos setores — do agro à saúde, da energia à educação.</p>
+<h4 class="text-xl font-semibold wm-cyan mt-8 mb-3">🌌 Visão do Projeto</h4>
+<p>AigroQuantumSaaS é mais que uma plataforma — é um ecossistema inteligente, projetado para ser:</p>
+<ul class="list-disc list-inside space-y-1.5 pl-5">
+<li>Autônomo na criação e execução de módulos SaaS</li>
+<li>RAG-based (Retrieval-Augmented Generation) para respostas contextuais profundas</li>
+<li>100% modular, com foco em escalabilidade, interoperabilidade e monetização</li>
+<li>Certificável com padrões como ISO 27001, LGPD, SOC 2 e IA Ethics</li>
+</ul>
+<h4 class="text-xl font-semibold wm-cyan mt-8 mb-3">🧠 Módulos Inteligentes Planejados</h4>
+<div class="overflow-x-auto mt-5 rounded-lg border border-slate-700 shadow-md">
+<table class="min-w-full divide-y divide-slate-700">
+<thead class="bg-slate-700">
+<tr>
+<th class="px-5 py-3.5 text-left text-xs font-medium text-slate-400 uppercase tracking-wider" scope="col">Módulo</th>
+<th class="px-5 py-3.5 text-left text-xs font-medium text-slate-400 uppercase tracking-wider" scope="col">Objetivo Central</th>
+<th class="px-5 py-3.5 text-left text-xs font-medium text-slate-400 uppercase tracking-wider" scope="col">Tecnologias Envolvidas</th>
+</tr>
+</thead>
+<tbody class="bg-slate-800 divide-y divide-slate-700">
+<tr>
+<td class="px-5 py-4 whitespace-nowrap text-sm font-medium wm-cyan">Quantum Studio</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">IDE para geração de SaaS com IA e RAG</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">LLMs, React, FastAPI, ChromaDB, GitHub Actions</td>
+</tr>
+<tr>
+<td class="px-5 py-4 whitespace-nowrap text-sm font-medium wm-cyan">HealthQuantum</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Predição de saúde com IA e relatórios médicos</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">XGBoost, AWS S3, PDFKit, OAuth2, XAI</td>
+</tr>
+<tr>
+<td class="px-5 py-4 whitespace-nowrap text-sm font-medium wm-cyan">EduQuantum</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Plataforma de ensino de IA e computação quântica</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">RAG, LLMs, Cursos IA, Multi-idioma</td>
+</tr>
+<tr>
+<td class="px-5 py-4 whitespace-nowrap text-sm font-medium wm-cyan">FinQuantum</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Soluções financeiras e de crédito rural via IA</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">OpenFinance, Risk Scoring, API Monetization</td>
+</tr>
+<tr>
+<td class="px-5 py-4 whitespace-nowrap text-sm font-medium wm-cyan">EnerQuantum</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Eficiência energética com previsão e automação</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Smart Contracts, TensorFlow, IoT, Redis</td>
+</tr>
+<tr>
+<td class="px-5 py-4 whitespace-nowrap text-sm font-medium wm-cyan">GeoQuantum</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Geolocalização com satélites e IA</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Satélite INPE, Vision AI, logística inteligente</td>
+</tr>
+<tr>
+<td class="px-5 py-4 whitespace-nowrap text-sm font-medium wm-cyan">AI Governance</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">Módulo de governança de IA com métricas e compliance</td>
+<td class="px-5 py-4 whitespace-nowrap text-sm text-slate-300">ISO, SOC 2, LGPD, IA Ethics</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 class="text-xl font-semibold wm-cyan mt-8 mb-3">🔐 Funcionalidades Atuais</h4>
+<ul class="list-disc list-inside space-y-1.5 pl-5">
+<li>✅ Autenticação de usuários</li>
+<li>✅ Dashboard com IA em tempo real</li>
+<li>✅ Sistema de créditos para monetização</li>
+<li>✅ Múltiplos modelos de IA integrados (OpenAI, Cohere, Microsoft, etc.)</li>
+<li>✅ Exportação de relatórios em PDF e Sheets</li>
+<li>✅ RAG Engine para respostas contextuais otimizadas</li>
+<li>✅ Pipelines CI/CD com GitHub Actions</li>
+</ul>
+<h4 class="text-xl font-semibold wm-cyan mt-8 mb-3">💡 Objetivos da Discussão</h4>
+<ul class="list-disc list-inside space-y-1.5 pl-5">
+<li>Trocar ideias sobre a arquitetura modular e os primeiros módulos a serem ativados.</li>
+<li>Discutir colaborações técnicas: Frontend, Backend, APIs, RAG, Integrações.</li>
+<li>Avaliar estratégias de monetização e modelos de licenciamento.</li>
+<li>Planejar a expansão internacional e adaptação legal para LATAM/EUA.</li>
+<li>Convidar desenvolvedores, pesquisadores e investidores para integrar esse ecossistema.</li>
+</ul>
+<h4 class="text-xl font-semibold wm-cyan mt-8 mb-3">🌍 Como Contribuir</h4>
+<p>Se você é:</p>
+<ul class="list-disc list-inside space-y-1.5 pl-5">
+<li>Engenheiro de software</li>
+<li>Cientista de dados</li>
+<li>Especialista em IA</li>
+<li>Designer de interfaces</li>
+<li>Empreendedor ou investidor</li>
+</ul>
+<p class="mt-3">📌 Comente abaixo, envie pull requests, proponha módulos ou discuta melhorias. Vamos construir juntos a próxima geração de SaaS com IA real, modularidade quântica e impacto global.</p>
+<p class="mt-5">🔗 AigroQuantumSaaS é a convergência entre o que há de mais avançado em tecnologia e as necessidades reais da sociedade.</p>
+<p class="mt-5">🧬 Vamos redefinir o futuro com IA ética, modular e quântica. 💬 Deixe sua visão abaixo.</p>
+<p class="mt-5 text-sm text-slate-400">Se desejar, posso também gerar o README.md, CONTRIBUTING.md e o primeiro issue automaticamente para o GitHub. Deseja que eu faça isso a seguir?</p>
+</div>
+<div class="mt-10 pt-8 border-t border-slate-700">
+<textarea class="w-full p-4 border border-slate-600 bg-slate-700 rounded-lg focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition duration-150 text-galaxy-blue placeholder-slate-400 ring-galaxy-accent" placeholder="Deixe sua visão abaixo..." rows="5"></textarea>
+<button class="mt-4 bg-galaxy-accent hover-bg-galaxy-accent-darker text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 flex items-center">
+<span class="material-icons mr-2">send</span>
+                Enviar Resposta
+              </button>
+</div>
+</div>
+<aside class="w-full lg:w-1/3 lg:pl-10 mt-12 lg:mt-0">
+<div class="bg-slate-800/50 p-6 rounded-lg shadow-lg sticky top-24">
+<h3 class="text-xl font-semibold wm-cyan mb-5">Informações Adicionais</h3>
+<div class="space-y-4">
+<div class="flex items-center text-slate-300">
+<span class="material-icons text-xl mr-3 text-cyan-400">comment</span>
+<span>0 comentários</span>
+</div>
+<div class="flex items-center text-slate-300">
+<span class="material-icons text-xl mr-3 text-cyan-400">visibility</span>
+<span>150 visualizações</span>
+</div>
+<div class="flex items-center text-slate-300">
+<span class="material-icons text-xl mr-3 text-cyan-400">thumb_up</span>
+<span>25 curtidas</span>
+</div>
+<div class="flex items-center text-slate-300">
+<span class="material-icons text-xl mr-3 text-cyan-400">label</span>
+<span class="truncate">Tags: IA, Quantum, SaaS, DeepTech</span>
+</div>
+</div>
+<h4 class="text-lg font-semibold wm-cyan mt-8 mb-4">Colaboradores</h4>
+<div class="flex -space-x-2 overflow-hidden mb-1">
+<img alt="Avatar do colaborador 1" class="inline-block h-10 w-10 rounded-full ring-2 ring-slate-800" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBASRduyohQPBh0mxx2jB_I1HafXzvXX_w-HyC0spt6aca2zc8oC4oQxO7gc-Fu4rGtfFOt8c4R90_XCvCDhoMlKVTtPnKKDlgNxycEsWAkaDGplKFAg_2PjM1sdqJT5T0pY437BoojdGhOWVCPKUsuo5hVnil9kFh94O1pZhf7P4TU_duuFzsdEeW0LfzkcmxnMEwLtLGI6PADuLBwayZwlK04XAXuZksrkZZAY1CMUGcS9aqA8pAEksIJ4FggKsk-QB9TsJfpogn_"/>
+<img alt="Avatar do colaborador 2" class="inline-block h-10 w-10 rounded-full ring-2 ring-slate-800" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB5Y1V3XWJkyoQ9WLz6b5688d0bRSfKLRarapVKkdQVDGBb_WwUD96Ymm7a99_GS_A2VqgvgSpRq39HFRoCeYJW1Fu5YUvqan_1GckYVZN0NUh2C5L2XGLxSNTWyOHWMAC0gNsiisqVTaVS3hV4loLKvxmB1H1Qyrq4wmW5jq-Lz2FimD3aBUCcR2fiCVIm3PyWJu2nFu4R36MYrA6fjEkUfvo_ZVGtZdr_JtK8LbhpPVQCtvrQgpInAIKN5vdQbeCtEW2lmLpdvjTA"/>
+<img alt="Avatar do colaborador 3" class="inline-block h-10 w-10 rounded-full ring-2 ring-slate-800" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDE9wdXqYmkBQifP4HaG00f5NdxvU0l-s4bV4TaHOR_6UiJas4zmevH9SDGoQ5kaDhGnxB9yVNBNgEB3NOrZFe0FLw8yUW0QAn31m3WcijUbWeVl6_Ib5dTVxWPAMcPSVUi9Fq0A2O4j56K5DmOU7AopKajc59C8UxD9svwqXCIXsXy-TzNklL45xvapLEFTNVVf5cwrnRU2ykJC5vtSKHZ8KbxpJqDHdSoJZ-IrwuXIQeoxxrxzsLHhgDyeHFHloxWNNIShhAKusZh"/>
+<a class="flex items-center justify-center h-10 w-10 rounded-full bg-slate-700 text-slate-300 hover:bg-slate-600 ring-2 ring-slate-800 text-xs font-medium transition-colors" href="#">+5</a>
+</div>
+<button class="mt-8 w-full bg-emerald-500 hover:bg-emerald-600 text-white font-semibold py-3 px-4 rounded-lg shadow-md transition duration-300 flex items-center justify-center">
+<span class="material-icons mr-2">group_add</span>
+                Junte-se à Comunidade
+              </button>
+</div>
+</aside>
+</div>
+</div>
+</main>
+<section class="py-16 bg-slate-800/70" id="repositories">
+<div class="container mx-auto px-6 text-center">
+<h2 class="text-3xl font-bold wm-cyan mb-10">Nossos Repositórios</h2>
+<div class="grid md:grid-cols-3 gap-8">
+<div class="bg-slate-700 p-6 rounded-lg shadow-lg">
+<span class="material-icons text-cyan-400 text-4xl mb-4">storage</span>
+<h3 class="text-xl font-semibold wm-cyan mb-2">QuantumCore API</h3>
+<p class="text-slate-300 text-sm">API central para todos os módulos AigroQuantumSaaS.</p>
+</div>
+<div class="bg-slate-700 p-6 rounded-lg shadow-lg">
+<span class="material-icons text-cyan-400 text-4xl mb-4">widgets</span>
+<h3 class="text-xl font-semibold wm-cyan mb-2">Modular UI Kit</h3>
+<p class="text-slate-300 text-sm">Componentes de UI reutilizáveis para desenvolvimento rápido.</p>
+</div>
+<div class="bg-slate-700 p-6 rounded-lg shadow-lg">
+<span class="material-icons text-cyan-400 text-4xl mb-4">science</span>
+<h3 class="text-xl font-semibold wm-cyan mb-2">AI Models Zoo</h3>
+<p class="text-slate-300 text-sm">Coleção de modelos de IA pré-treinados e customizáveis.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="py-16 bg-galaxy-dark" id="pricing">
+<div class="container mx-auto px-6 text-center">
+<h2 class="text-3xl font-bold wm-cyan mb-10">Planos e Preços</h2>
+<div class="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+<div class="bg-slate-800 p-8 rounded-lg shadow-xl border border-slate-700 transform hover:scale-105 transition-transform duration-300">
+<h3 class="text-2xl font-semibold text-cyan-400 mb-3">Explorador</h3>
+<p class="text-4xl font-bold wm-cyan mb-1">R$49<span class="text-lg font-normal text-slate-400">/mês</span></p>
+<ul class="text-slate-300 space-y-2 my-6 text-left">
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Acesso a 1 módulo</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>10.000 créditos de IA</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Suporte comunitário</li>
+</ul>
+<button class="w-full bg-galaxy-accent hover-bg-galaxy-accent-darker text-white font-semibold py-2.5 rounded-lg transition duration-300">Começar</button>
+</div>
+<div class="bg-slate-800 p-8 rounded-lg shadow-xl border-2 border-cyan-400 transform hover:scale-105 transition-transform duration-300 relative">
+<span class="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-cyan-400 text-white text-xs font-semibold px-3 py-1 rounded-full">POPULAR</span>
+<h3 class="text-2xl font-semibold text-cyan-400 mb-3">Inovador</h3>
+<p class="text-4xl font-bold wm-cyan mb-1">R$199<span class="text-lg font-normal text-slate-400">/mês</span></p>
+<ul class="text-slate-300 space-y-2 my-6 text-left">
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Acesso a 5 módulos</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>100.000 créditos de IA</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Suporte prioritário</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Acesso API</li>
+</ul>
+<button class="w-full bg-cyan-400 hover:bg-cyan-600 text-white font-semibold py-2.5 rounded-lg transition duration-300">Escolher Plano</button>
+</div>
+<div class="bg-slate-800 p-8 rounded-lg shadow-xl border border-slate-700 transform hover:scale-105 transition-transform duration-300">
+<h3 class="text-2xl font-semibold text-cyan-400 mb-3">Enterprise</h3>
+<p class="text-4xl font-bold wm-cyan mb-1">Custom</p>
+<ul class="text-slate-300 space-y-2 my-6 text-left">
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Acesso a todos os módulos</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Créditos ilimitados</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Suporte dedicado 24/7</li>
+<li class="flex items-center"><span class="material-icons text-green-500 mr-2">check_circle</span>Soluções on-premise</li>
+</ul>
+<button class="w-full bg-galaxy-accent hover-bg-galaxy-accent-darker text-white font-semibold py-2.5 rounded-lg transition duration-300">Contate-nos</button>
+</div>
+</div>
+</div>
+</section>
+<section class="py-16 bg-slate-800/70" id="docs">
+<div class="container mx-auto px-6 text-center">
+<h2 class="text-3xl font-bold wm-cyan mb-10">Documentação e Recursos</h2>
+<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+<a class="block bg-slate-700 p-6 rounded-lg shadow-lg hover:bg-slate-600 transition-colors duration-300" href="#">
+<span class="material-icons text-cyan-400 text-4xl mb-3">menu_book</span>
+<h3 class="text-xl font-semibold wm-cyan mb-1">Guias de Início</h3>
+<p class="text-slate-300 text-sm">Comece a usar o AigroQuantumSaaS rapidamente.</p>
+</a>
+<a class="block bg-slate-700 p-6 rounded-lg shadow-lg hover:bg-slate-600 transition-colors duration-300" href="#">
+<span class="material-icons text-cyan-400 text-4xl mb-3">api</span>
+<h3 class="text-xl font-semibold wm-cyan mb-1">Referência da API</h3>
+<p class="text-slate-300 text-sm">Detalhes completos sobre nossos endpoints.</p>
+</a>
+<a class="block bg-slate-700 p-6 rounded-lg shadow-lg hover:bg-slate-600 transition-colors duration-300" href="#">
+<span class="material-icons text-cyan-400 text-4xl mb-3">code</span>
+<h3 class="text-xl font-semibold wm-cyan mb-1">Exemplos de Código</h3>
+<p class="text-slate-300 text-sm">Integrações e casos de uso práticos.</p>
+</a>
+<a class="block bg-slate-700 p-6 rounded-lg shadow-lg hover:bg-slate-600 transition-colors duration-300" href="#">
+<span class="material-icons text-cyan-400 text-4xl mb-3">forum</span>
+<h3 class="text-xl font-semibold wm-cyan mb-1">Comunidade</h3>
+<p class="text-slate-300 text-sm">Conecte-se com outros desenvolvedores.</p>
+</a>
+</div>
+</div>
+</section>
+<section class="py-16 bg-galaxy-dark" id="contact">
+<div class="container mx-auto px-6">
+<h2 class="text-3xl font-bold wm-cyan mb-10 text-center">Entre em Contato</h2>
+<div class="max-w-2xl mx-auto bg-slate-800 p-8 rounded-lg shadow-xl">
+<form action="#" method="POST">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+<div>
+<label class="block text-sm font-medium text-slate-300 mb-1.5" for="name">Nome Completo</label>
+<input class="w-full bg-slate-700 border-slate-600 text-galaxy-blue rounded-md p-3 focus:ring-cyan-500 focus:border-cyan-500 ring-galaxy-accent" id="name" name="name" required="" type="text"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-300 mb-1.5" for="email">Endereço de E-mail</label>
+<input class="w-full bg-slate-700 border-slate-600 text-galaxy-blue rounded-md p-3 focus:ring-cyan-500 focus:border-cyan-500 ring-galaxy-accent" id="email" name="email" required="" type="email"/>
+</div>
+</div>
+<div class="mb-6">
+<label class="block text-sm font-medium text-slate-300 mb-1.5" for="subject">Assunto</label>
+<input class="w-full bg-slate-700 border-slate-600 text-galaxy-blue rounded-md p-3 focus:ring-cyan-500 focus:border-cyan-500 ring-galaxy-accent" id="subject" name="subject" required="" type="text"/>
+</div>
+<div class="mb-6">
+<label class="block text-sm font-medium text-slate-300 mb-1.5" for="message">Sua Mensagem</label>
+<textarea class="w-full bg-slate-700 border-slate-600 text-galaxy-blue rounded-md p-3 focus:ring-cyan-500 focus:border-cyan-500 ring-galaxy-accent" id="message" name="message" required="" rows="5"></textarea>
+</div>
+<div>
+<button class="w-full bg-galaxy-accent hover-bg-galaxy-accent-darker text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 flex items-center justify-center" type="submit">
+<span class="material-icons mr-2">email</span>
+                Enviar Mensagem
+              </button>
+</div>
+</form>
+</div>
+</div>
+</section>
+<footer class="bg-slate-900 text-slate-400 py-10 text-center">
+<div class="container mx-auto px-6">
+<div class="flex justify-center space-x-6 mb-6">
+<a class="hover-galaxy-accent transition-colors" href="#"><svg aria-hidden="true" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+<path clip-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" fill-rule="evenodd"></path>
+</svg></a>
+<a class="hover-galaxy-accent transition-colors" href="#"><svg aria-hidden="true" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+<path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"></path>
+</svg></a>
+<a class="hover-galaxy-accent transition-colors" href="#"><svg aria-hidden="true" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+<path clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.201 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.001 10.001 0 0022 12.017C22 6.484 17.522 2 12 2z" fill-rule="evenodd"></path>
+</svg></a>
+<a class="hover-galaxy-accent transition-colors" href="#"><svg aria-hidden="true" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+<path clip-rule="evenodd" d="M19.75 5.5H4.25A2.25 2.25 0 002 7.75v8.5A2.25 2.25 0 004.25 18.5h15.5A2.25 2.25 0 0022 16.25v-8.5A2.25 2.25 0 0019.75 5.5zm-2.5 1.75a.75.75 0 00-1.5 0V9h-1.5V7.25a.75.75 0 00-1.5 0V9h-1.5V7.25a.75.75 0 00-1.5 0V9h-1.5V7.25a.75.75 0 00-1.5 0v5.08c0 .83.67 1.5 1.5 1.5h8a1.5 1.5 0 001.5-1.5V7.25zM6.5 12.5a1 1 0 100-2 1 1 0 000 2z" fill-rule="evenodd"></path>
+</svg></a>
+</div>
+<p class="text-sm">© 2023 AigroQuantumSaaS. Todos os direitos reservados.</p>
+<p class="text-xs mt-1">Construindo o futuro da tecnologia, juntos.</p>
+</div>
+</footer>
+</div>
+</body>
+</html>
