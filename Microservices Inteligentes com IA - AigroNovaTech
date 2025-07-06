@@ -1,0 +1,1056 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html
+Subject: Microservices Inteligentes com IA - AigroNovaTech
+Date: Sat, 5 Jul 2025 21:07:46 -0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx----"
+
+
+------MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx----
+Content-Type: text/html
+Content-ID: <frame-876037B848619EAE0EF9AC3B0F8E21C1@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html
+
+<!DOCTYPE html><html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-e22fd68e-a2ea-445d-9b2e-35123dbbfbc8@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microservices Inteligentes com IA - AigroNovaTech</title>
+    <meta name="description" content="Transforme sua arquitetura com microservices inteligentes. IA integrada, compliance autom√°tico e escalabilidade qu√¢ntica. Reduza custos em at√© 60%.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/microservices_styles.css">
+</head>
+<body style="overflow: auto;">
+    <!-- Header -->
+    <header class="header" style="background: rgba(255, 255, 255, 0.95); box-shadow: none;">
+        <nav class="nav">
+            <div class="nav-brand">
+                <img src="https://via.placeholder.com/40x40/00D4FF/FFFFFF?text=A" alt="AigroNovaTech" class="logo">
+                <span class="brand-name">AigroNovaTech</span>
+            </div>
+            <div class="nav-links">
+                <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#solucoes" class="nav-link">Solu√ß√µes</a>
+                <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#precos" class="nav-link">Pre√ßos</a>
+                <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#casos" class="nav-link">Casos de Uso</a>
+                <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#contato" class="nav-link">Contato</a>
+                <button class="btn-demo">Demo Gratuita</button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero fade-in" style="transform: translateY(0px);">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">
+                        Microservices <span class="highlight">Inteligentes</span><br>
+                        com IA Integrada
+                    </h1>
+                    <p class="hero-subtitle">
+                        Transforme sua arquitetura monol√≠tica em microservices escal√°veis com IA de ponta, 
+                        compliance autom√°tico e redu√ß√£o de at√© 60% nos custos de desenvolvimento.
+                    </p>
+                    <div class="hero-stats">
+                        <div class="stat">
+                            <span class="stat-number">60%</span>
+                            <span class="stat-label">Redu√ß√£o de Custos</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">75%</span>
+                            <span class="stat-label">Menos Tempo de Deploy</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">99.9%</span>
+                            <span class="stat-label">Disponibilidade</span>
+                        </div>
+                    </div>
+                    <div class="hero-cta">
+                        <button class="btn-primary">
+                            üöÄ Come√ßar Demo Gratuita
+                        </button>
+                        <button class="btn-secondary">
+                            üìä Calcular ROI
+                        </button>
+                    </div>
+                    <div class="trust-indicators">
+                        <span class="trust-text">Confiado por empresas l√≠deres:</span>
+                        <div class="trust-logos">
+                            <img src="https://via.placeholder.com/80x30/E5E7EB/6B7280?text=Empresa1" alt="Cliente 1">
+                            <img src="https://via.placeholder.com/80x30/E5E7EB/6B7280?text=Empresa2" alt="Cliente 2">
+                            <img src="https://via.placeholder.com/80x30/E5E7EB/6B7280?text=Empresa3" alt="Cliente 3">
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-visual">
+                    <div class="architecture-diagram">
+                        <div class="microservice-node">
+                            <div class="node-icon">üß†</div>
+                            <span>IA Engine</span>
+                        </div>
+                        <div class="microservice-node">
+                            <div class="node-icon">üîí</div>
+                            <span>Security</span>
+                        </div>
+                        <div class="microservice-node active">
+                            <div class="node-icon">üìä</div>
+                            <span>Analytics</span>
+                        </div>
+                        <div class="microservice-node">
+                            <div class="node-icon">‚ö°</div>
+                            <span>API Gateway</span>
+                        </div>
+                        <div class="microservice-node">
+                            <div class="node-icon">üîÑ</div>
+                            <span>Orchestrator</span>
+                        </div>
+                        <div class="microservice-node">
+                            <div class="node-icon">üìà</div>
+                            <span>Monitoring</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problem Section -->
+    <section class="problem fade-in">
+        <div class="container">
+            <h2 class="section-title">Os Desafios da Arquitetura Monol√≠tica</h2>
+            <div class="problem-grid">
+                <div class="problem-item fade-in">
+                    <div class="problem-icon">‚ö†Ô∏è</div>
+                    <h3>Escalabilidade Limitada</h3>
+                    <p>Sistemas monol√≠ticos n√£o conseguem escalar componentes individualmente, gerando desperd√≠cio de recursos.</p>
+                </div>
+                <div class="problem-item fade-in">
+                    <div class="problem-icon">üêå</div>
+                    <h3>Deploy Lento e Arriscado</h3>
+                    <p>Cada mudan√ßa requer deploy completo, aumentando riscos e tempo de inatividade.</p>
+                </div>
+                <div class="problem-item fade-in">
+                    <div class="problem-icon">üí∞</div>
+                    <h3>Custos Elevados</h3>
+                    <p>Desenvolvimento from-scratch e manuten√ß√£o de sistemas legados consomem or√ßamento excessivo.</p>
+                </div>
+                <div class="problem-item fade-in">
+                    <div class="problem-icon">üîß</div>
+                    <h3>Manuten√ß√£o Complexa</h3>
+                    <p>C√≥digo acoplado dificulta manuten√ß√£o e introdu√ß√£o de novas funcionalidades.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section class="solution fade-in" id="solucoes">
+        <div class="container">
+            <h2 class="section-title">A Solu√ß√£o: Microservices Inteligentes</h2>
+            <div class="solution-grid">
+                <div class="solution-item fade-in">
+                    <div class="solution-icon">üß†</div>
+                    <h3>IA Integrada Nativa</h3>
+                    <p>Cada microservice vem com capacidades de IA pr√©-configuradas: RAG Engine, m√∫ltiplos modelos (OpenAI, Cohere, Microsoft) e an√°lise preditiva autom√°tica.</p>
+                    <ul class="feature-list">
+                        <li>‚úÖ RAG Engine para respostas contextuais</li>
+                        <li>‚úÖ M√∫ltiplos modelos de IA integrados</li>
+                        <li>‚úÖ Processamento de linguagem natural</li>
+                        <li>‚úÖ An√°lise preditiva em tempo real</li>
+                    </ul>
+                </div>
+                <div class="solution-item fade-in">
+                    <div class="solution-icon">‚ö°</div>
+                    <h3>Arquitetura Qu√¢ntica-Ready</h3>
+                    <p>Prepara√ß√£o para o futuro com algoritmos otimizados para computa√ß√£o qu√¢ntica e escalabilidade exponencial.</p>
+                    <ul class="feature-list">
+                        <li>‚úÖ Algoritmos qu√¢nticos otimizados</li>
+                        <li>‚úÖ Escalabilidade exponencial</li>
+                        <li>‚úÖ Compatibilidade futura garantida</li>
+                        <li>‚úÖ Performance superior</li>
+                    </ul>
+                </div>
+                <div class="solution-item fade-in">
+                    <div class="solution-icon">üîí</div>
+                    <h3>Compliance Autom√°tico</h3>
+                    <p>Conformidade regulat√≥ria integrada com ISO 27001, SOC 2, LGPD e IA Ethics automatizados.</p>
+                    <ul class="feature-list">
+                        <li>‚úÖ LGPD autom√°tico</li>
+                        <li>‚úÖ ISO 27001 e SOC 2</li>
+                        <li>‚úÖ IA Ethics incorporada</li>
+                        <li>‚úÖ Auditoria cont√≠nua</li>
+                    </ul>
+                </div>
+                <div class="solution-item fade-in">
+                    <div class="solution-icon">üéØ</div>
+                    <h3>Especializa√ß√£o Setorial</h3>
+                    <p>Microservices verticalizados para diferentes setores: Agro, Sa√∫de, Educa√ß√£o, Finan√ßas, Energia e Log√≠stica.</p>
+                    <ul class="feature-list">
+                        <li>‚úÖ AgroQuantum - Agroneg√≥cio</li>
+                        <li>‚úÖ HealthQuantum - Sa√∫de</li>
+                        <li>‚úÖ FinQuantum - Finan√ßas</li>
+                        <li>‚úÖ EnerQuantum - Energia</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ROI Calculator Section -->
+    <section class="roi-calculator fade-in">
+        <div class="container">
+            <h2 class="section-title">Calcule Seu ROI</h2>
+            <div class="calculator-container" style="animation: 1s ease-in-out 0s 1 normal none running pulse;">
+                <div class="calculator-form">
+                    <h3>Descubra Quanto Voc√™ Pode Economizar</h3>
+                    <div class="form-group">
+                        <label for="developers">N√∫mero de Desenvolvedores</label>
+                        <input type="number" id="developers" value="10" min="1" max="1000">
+                    </div>
+                    <div class="form-group">
+                        <label for="salary">Sal√°rio M√©dio Mensal (R$)</label>
+                        <input type="number" id="salary" value="12000" min="1000" max="50000">
+                    </div>
+                    <div class="form-group">
+                        <label for="projects">Projetos por Ano</label>
+                        <input type="number" id="projects" value="4" min="1" max="50">
+                    </div>
+                    <button class="btn-calculate">Calcular Economia</button>
+                </div>
+                <div class="calculator-results">
+                    <h3>Sua Economia Anual</h3>
+                    <div class="result-item" style="animation: 0.5s ease-out 0s 1 normal none running slideUp;">
+                        <span class="result-label">Custo Atual de Desenvolvimento:</span>
+                        <span class="result-value" id="currentCost">R$ 2.880.000</span>
+                    </div>
+                    <div class="result-item" style="animation: 0.5s ease-out 0s 1 normal none running slideUp;">
+                        <span class="result-label">Custo com AigroNovaTech:</span>
+                        <span class="result-value" id="newCost">R$ 1.152.000</span>
+                    </div>
+                    <div class="result-item highlight" style="animation: 0.5s ease-out 0s 1 normal none running slideUp;">
+                        <span class="result-label">Economia Total:</span>
+                        <span class="result-value" id="savings">R$ 1.728.000</span>
+                    </div>
+                    <div class="result-item highlight" style="animation: 0.5s ease-out 0s 1 normal none running slideUp;">
+                        <span class="result-label">ROI:</span>
+                        <span class="result-value" id="roi">150%</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section class="pricing fade-in" id="precos">
+        <div class="container">
+            <h2 class="section-title">Planos Flex√≠veis para Cada Necessidade</h2>
+            <div class="pricing-grid">
+                <div class="pricing-card fade-in">
+                    <div class="pricing-header">
+                        <h3>Starter</h3>
+                        <div class="price">
+                            <span class="currency">R$</span>
+                            <span class="amount">2.500</span>
+                            <span class="period">/m√™s</span>
+                        </div>
+                        <p class="pricing-description">Ideal para startups e pequenas empresas</p>
+                    </div>
+                    <ul class="pricing-features">
+                        <li>‚úÖ 3 microservices b√°sicos</li>
+                        <li>‚úÖ 10GB processamento IA/m√™s</li>
+                        <li>‚úÖ Suporte por email</li>
+                        <li>‚úÖ Dashboard b√°sico</li>
+                        <li>‚úÖ Compliance LGPD</li>
+                        <li>‚úÖ Documenta√ß√£o completa</li>
+                    </ul>
+                    <button class="btn-pricing">Come√ßar Agora</button>
+                </div>
+                
+                <div class="pricing-card featured fade-in">
+                    <div class="pricing-badge">Mais Popular</div>
+                    <div class="pricing-header">
+                        <h3>Professional</h3>
+                        <div class="price">
+                            <span class="currency">R$</span>
+                            <span class="amount">8.500</span>
+                            <span class="period">/m√™s</span>
+                        </div>
+                        <p class="pricing-description">Ideal para empresas de m√©dio porte</p>
+                    </div>
+                    <ul class="pricing-features">
+                        <li>‚úÖ 10 microservices</li>
+                        <li>‚úÖ 50GB processamento IA/m√™s</li>
+                        <li>‚úÖ Suporte priorit√°rio</li>
+                        <li>‚úÖ Dashboard avan√ßado</li>
+                        <li>‚úÖ Compliance completo</li>
+                        <li>‚úÖ Integra√ß√£o sistemas legados</li>
+                        <li>‚úÖ Analytics avan√ßado</li>
+                        <li>‚úÖ API personalizada</li>
+                    </ul>
+                    <button class="btn-pricing primary">Come√ßar Agora</button>
+                </div>
+                
+                <div class="pricing-card fade-in">
+                    <div class="pricing-header">
+                        <h3>Enterprise</h3>
+                        <div class="price">
+                            <span class="currency">R$</span>
+                            <span class="amount">25.000</span>
+                            <span class="period">/m√™s</span>
+                        </div>
+                        <p class="pricing-description">Ideal para grandes corpora√ß√µes</p>
+                    </div>
+                    <ul class="pricing-features">
+                        <li>‚úÖ Microservices ilimitados</li>
+                        <li>‚úÖ 200GB processamento IA/m√™s</li>
+                        <li>‚úÖ Suporte dedicado 24/7</li>
+                        <li>‚úÖ Dashboard executivo</li>
+                        <li>‚úÖ Compliance enterprise</li>
+                        <li>‚úÖ Consultoria especializada</li>
+                        <li>‚úÖ SLA 99.9%</li>
+                        <li>‚úÖ Treinamento de equipes</li>
+                    </ul>
+                    <button class="btn-pricing">Falar com Vendas</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Use Cases Section -->
+    <section class="use-cases fade-in" id="casos">
+        <div class="container">
+            <h2 class="section-title">Casos de Uso por Setor</h2>
+            <div class="use-cases-grid">
+                <div class="use-case-item fade-in">
+                    <div class="use-case-icon">üåæ</div>
+                    <h3>Agroneg√≥cio</h3>
+                    <p>Otimiza√ß√£o de cultivos com IA, previs√£o de safras e gest√£o inteligente de recursos.</p>
+                    <ul>
+                        <li>An√°lise de solo e clima</li>
+                        <li>Previs√£o de produtividade</li>
+                        <li>Otimiza√ß√£o de irriga√ß√£o</li>
+                        <li>Monitoramento de pragas</li>
+                    </ul>
+                </div>
+                <div class="use-case-item fade-in">
+                    <div class="use-case-icon">üè•</div>
+                    <h3>Sa√∫de</h3>
+                    <p>Diagn√≥sticos assistidos por IA, an√°lise de exames e gest√£o hospitalar inteligente.</p>
+                    <ul>
+                        <li>An√°lise de exames m√©dicos</li>
+                        <li>Predi√ß√£o de riscos</li>
+                        <li>Gest√£o de leitos</li>
+                        <li>Telemedicina avan√ßada</li>
+                    </ul>
+                </div>
+                <div class="use-case-item fade-in">
+                    <div class="use-case-icon">üí∞</div>
+                    <h3>Finan√ßas</h3>
+                    <p>An√°lise de cr√©dito com IA, detec√ß√£o de fraudes e automa√ß√£o de processos financeiros.</p>
+                    <ul>
+                        <li>Score de cr√©dito inteligente</li>
+                        <li>Detec√ß√£o de fraudes</li>
+                        <li>Automa√ß√£o de processos</li>
+                        <li>An√°lise de investimentos</li>
+                    </ul>
+                </div>
+                <div class="use-case-item fade-in">
+                    <div class="use-case-icon">‚ö°</div>
+                    <h3>Energia</h3>
+                    <p>Otimiza√ß√£o energ√©tica, previs√£o de demanda e gest√£o inteligente de redes.</p>
+                    <ul>
+                        <li>Previs√£o de demanda</li>
+                        <li>Otimiza√ß√£o de consumo</li>
+                        <li>Manuten√ß√£o preditiva</li>
+                        <li>Smart grids</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials fade-in">
+        <div class="container">
+            <h2 class="section-title">O Que Nossos Clientes Dizem</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-item fade-in">
+                    <div class="testimonial-content">
+                        <p>"Reduzimos 65% do tempo de desenvolvimento e aumentamos a qualidade dos nossos produtos. A IA integrada √© um diferencial incr√≠vel."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=60&amp;h=60&amp;fit=crop&amp;crop=face" alt="Jo√£o Silva">
+                        <div class="author-info">
+                            <span class="author-name">Jo√£o Silva</span>
+                            <span class="author-role">CTO, TechCorp</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item fade-in">
+                    <div class="testimonial-content">
+                        <p>"O compliance autom√°tico nos poupou meses de trabalho. Agora focamos no que realmente importa: inova√ß√£o."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=60&amp;h=60&amp;fit=crop&amp;crop=face" alt="Maria Santos">
+                        <div class="author-info">
+                            <span class="author-name">Maria Santos</span>
+                            <span class="author-role">Diretora de TI, FinanceMax</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item fade-in">
+                    <div class="testimonial-content">
+                        <p>"A escalabilidade √© impressionante. Crescemos 300% sem precisar repensar nossa arquitetura."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=60&amp;h=60&amp;fit=crop&amp;crop=face" alt="Carlos Oliveira">
+                        <div class="author-info">
+                            <span class="author-name">Carlos Oliveira</span>
+                            <span class="author-role">Founder, StartupXYZ</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta fade-in">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Pronto para Transformar Sua Arquitetura?</h2>
+                <p>Junte-se a centenas de empresas que j√° est√£o economizando tempo e dinheiro com nossos microservices inteligentes.</p>
+                <div class="cta-buttons">
+                    <button class="btn-primary large">
+                        üöÄ Come√ßar Demo Gratuita
+                    </button>
+                    <button class="btn-secondary large">
+                        üí¨ Falar com Especialista
+                    </button>
+                </div>
+                <div class="cta-guarantee">
+                    <span>‚úÖ Demo gratuita de 30 dias</span>
+                    <span>‚úÖ Suporte especializado</span>
+                    <span>‚úÖ Sem compromisso</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <img src="https://via.placeholder.com/40x40/00D4FF/FFFFFF?text=A" alt="AigroNovaTech" class="logo">
+                    <span class="brand-name">AigroNovaTech</span>
+                    <p>Transformando o futuro com IA e computa√ß√£o qu√¢ntica.</p>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>Produto</h4>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#solucoes">Solu√ß√µes</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#precos">Pre√ßos</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#casos">Casos de Uso</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Documenta√ß√£o</a>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Empresa</h4>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Sobre N√≥s</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Blog</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Carreiras</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#contato">Contato</a>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Suporte</h4>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Central de Ajuda</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Status</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Comunidade</a>
+                        <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">API</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>¬© 2025 AigroNovaTech. Todos os direitos reservados.</p>
+                <div class="footer-legal">
+                    <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Privacidade</a>
+                    <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">Termos</a>
+                    <a href="http://127.0.0.1:13959/main/0/storage/emulated/0/Download/landing_microservices%20(1).html#">LGPD</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Demo Modal -->
+    <div id="demoModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close">√ó</span>
+            <h2>Agende Sua Demo Gratuita</h2>
+            <form class="demo-form">
+                <div class="form-group">
+                    <label for="demoName">Nome Completo</label>
+                    <input type="text" id="demoName" required="">
+                </div>
+                <div class="form-group">
+                    <label for="demoEmail">Email Corporativo</label>
+                    <input type="email" id="demoEmail" required="">
+                </div>
+                <div class="form-group">
+                    <label for="demoCompany">Empresa</label>
+                    <input type="text" id="demoCompany" required="">
+                </div>
+                <div class="form-group">
+                    <label for="demoRole">Cargo</label>
+                    <select id="demoRole" required="">
+                        <option value="">Selecione seu cargo</option>
+                        <option value="cto">CTO</option>
+                        <option value="ti-director">Diretor de TI</option>
+                        <option value="dev-manager">Gerente de Desenvolvimento</option>
+                        <option value="founder">Founder/CEO</option>
+                        <option value="architect">Arquiteto de Software</option>
+                        <option value="other">Outro</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="demoCompanySize">Tamanho da Empresa</label>
+                    <select id="demoCompanySize" required="">
+                        <option value="">Selecione o tamanho</option>
+                        <option value="startup">Startup (1-10 funcion√°rios)</option>
+                        <option value="small">Pequena (11-50 funcion√°rios)</option>
+                        <option value="medium">M√©dia (51-200 funcion√°rios)</option>
+                        <option value="large">Grande (201-1000 funcion√°rios)</option>
+                        <option value="enterprise">Enterprise (1000+ funcion√°rios)</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn-primary">Agendar Demo</button>
+            </form>
+        </div>
+    </div>
+
+    
+
+</body></html>
+------MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: binary
+Content-Location: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=60&h=60&fit=crop&crop=face
+
+ˇÿˇ‡ JFIF  H H  ˇ‚XICC_PROFILE   HLino  mntrRGB XYZ Œ  	  1  acspMSFT    IEC sRGB              ˆ÷     ”-HP                                                 cprt  P   3desc  Ñ   lwtpt     bkpt     rXYZ     gXYZ  ,   bXYZ  @   dmnd  T   pdmdd  ƒ   àvued  L   Üview  ‘   $lumi  ¯   meas     $tech  0   rTRC  <  gTRC  <  bTRC  <  text    Copyright (c) 1998 Hewlett-Packard Company  desc       sRGB IEC61966-2.1           sRGB IEC61966-2.1                                                  XYZ       ÛQ    ÃXYZ                 XYZ       o¢  8ı  êXYZ       bô  ∑Ö  ⁄XYZ       $†  Ñ  ∂œdesc       IEC http://www.iec.ch           IEC http://www.iec.ch                                              desc       .IEC 61966-2.1 Default RGB colour space - sRGB           .IEC 61966-2.1 Default RGB colour space - sRGB                      desc       ,Reference Viewing Condition in IEC61966-2.1           ,Reference Viewing Condition in IEC61966-2.1                          view     §˛ _. œ ÌÃ  \û   XYZ      L	V P   WÁmeas                         è   sig     CRT curv           
+     # ( - 2 7 ; @ E J O T Y ^ c h m r w | Å Ü ã ê ï ö ü § © Æ ≤ ∑ º ¡ ∆ À – ’ € ‡ Â Î  ˆ ˚%+28>ELRY`gnu|Éãíö°©±π¡…—Ÿ·ÈÚ˙&/8AKT]gqzÑéò¢¨∂¡À’‡Îı !-8COZfr~äñ¢Æ∫«”‡Ï˘ -;HUcq~åö®∂ƒ”·˛+:IXgwÜñ¶µ≈’Âˆ'7HYj{åùØ¿—„ı+=OatÜô¨ø“Â¯2FZnÇñ™æ“Á˚		%	:	O	d	y	è	§	∫	œ	Â	˚
+
+'
+=
+T
+j
+Å
+ò
+Æ
+≈
+‹
+Û"9QiÄò∞»·˘*C\uéß¿ŸÛ&@Zté©√ﬁ¯.Idõ∂“Ó	%A^zñ≥œÏ	&Ca~õπ◊ı1Omå™…Ë&EdÑ£√„#CcÉ§≈Â'Ijã≠Œ4VxõΩ‡&Ilè≤÷˙AeâÆ“˜@eäØ’˙ Ekë∑›*Qwû≈Ï;cä≤⁄*R{£ÃıGpô√Ï@jîæÈ>iîøÍ  A l ò ƒ !!H!u!°!Œ!˚"'"U"Ç"Ø"›#
+#8#f#î#¬#$$M$|$´$⁄%	%8%h%ó%«%˜&'&W&á&∑&Ë''I'z'´'‹((?(q(¢(‘))8)k)ù)–**5*h*õ*œ++6+i+ù+—,,9,n,¢,◊--A-v-´-·..L.Ç.∑.Ó/$/Z/ë/«/˛050l0§0€11J1Ç1∫1Ú2*2c2õ2‘33F33∏3Ò4+4e4û4ÿ55M5á5¬5˝676r6Æ6È7$7`7ú7◊88P8å8»99B99º9˘:6:t:≤:Ô;-;k;™;Ë<'<e<§<„="=a=°=‡> >`>†>‡?!?a?¢?‚@#@d@¶@ÁA)AjA¨AÓB0BrBµB˜C:C}C¿DDGDäDŒEEUEöEﬁF"FgF´FG5G{G¿HHKHëH◊IIcI©IJ7J}JƒKKSKöK‚L*LrL∫MMJMìM‹N%NnN∑O OIOìO›P'PqPªQQPQõQÊR1R|R«SS_S™SˆTBTèT€U(UuU¬VV\V©V˜WDWíW‡X/X}XÀYYiY∏ZZVZ¶Zı[E[ï[Â\5\Ü\÷]']x]…^^l^Ω__a_≥``W`™`¸aOa¢aıbIbúbcCcócÎd@dîdÈe=eíeÁf=fífËg=gìgÈh?hñhÏiCiöiÒjHjüj˜kOkßkˇlWlØmm`mπnnknƒooxo—p+pÜp‡q:qïqrKr¶ss]s∏ttptÃu(uÖu·v>võv¯wVw≥xxnxÃy*yâyÁzFz•{{c{¬|!|Å|·}A}°~~b~¬#ÑÂÄGÄ®Å
+ÅkÅÕÇ0ÇíÇÙÉWÉ∫ÑÑÄÑ„ÖGÖ´ÜÜrÜ◊á;áüààiàŒâ3âôâ˛ädä ã0ãñã¸åcå ç1çòçˇéféŒè6èûêênê÷ë?ë®íízí„ìMì∂î îäîÙï_ï…ñ4ñüó
+óuó‡òLò∏ô$ôêô¸öhö’õBõØúúâú˜ùdù“û@ûÆüüãü˙†i†ÿ°G°∂¢&¢ñ££v£Ê§V§«•8•©¶¶ã¶˝ßnß‡®R®ƒ©7©©™™è´´u´È¨\¨–≠D≠∏Æ-Æ°ØØã∞ ∞u∞Í±`±÷≤K≤¬≥8≥Æ¥%¥úµµä∂∂y∂∑h∑‡∏Y∏—πJπ¬∫;∫µª.ªßº!ºõΩΩèæ
+æÑæˇøzøı¿p¿Ï¡g¡„¬_¬€√X√‘ƒQƒŒ≈K≈»∆F∆√«A«ø»=»º…:…π 8 ∑À6À∂Ã5ÃµÕ5ÕµŒ6Œ∂œ7œ∏–9–∫—<—æ“?“¡”D”∆‘I‘À’N’—÷U÷ÿ◊\◊‡ÿdÿËŸlŸÒ⁄v⁄˚€Ä‹‹ä››ñﬁﬁ¢ﬂ)ﬂØ‡6‡Ω·D·Ã‚S‚€„c„Î‰s‰¸ÂÑÊÊñÁÁ©Ë2ËºÈFÈ–Í[ÍÂÎpÎ˚ÏÜÌÌúÓ(Ó¥Ô@ÔÃXÂÒrÒˇÚåÛÛßÙ4Ù¬ıPıﬁˆmˆ˚˜ä¯¯®˘8˘«˙W˙Á˚w¸¸ò˝)˝∫˛K˛‹ˇmˇˇˇ€ Ñ 
+
+
+
+
+
+""+)+88K
+
+
+
+
+
+""+)+88Kˇ¿  < <" ˇƒ à            	        !A1QaqÅ"$23Bë°±                    !1Qëaq"#Å°ˇ⁄   ? âJò‘ƒÃK…G∞˘:˛%ÌQ=Ç≠J’¥?Xt-ˇ ´¶ä•EKÈñ·ï˙’¨ˆ§∏ÿ¢µ};∂< ›ırw	±Ë
+Øi<—¢ˆN*Ω“ûï—TäT¸™πdWbFrNôË˙o@”l"Bò'à’ß5UV9bñ¶ñÖUU#Z®·ú}ìøé˙r™.VÊ≥I\´9¿«§YQπ„¸IÔ†}CÛí Ó”ú9;pÙ˝i5§hë«˛03˚+.z◊”zh(Îà§EdRGå¢œ·¬Ê’{∆Bíiƒ¥ÌüsË»ÀØΩÓjØŒ“EQB}@·©"ôÊp©Ó≈ŸT<ÅÆﬁÇ€•∂m(i ÂLÚHû;HyÈ√&ñ5x&l∏Áﬁ(ÛŒbäqÃ*Ùx∆MÎc¶®ü”9Ö‰G∆∏ìÄ Í√
+«2≥<`íƒ}◊Q≤“∫«€Œ∑îsä´[©ìÛ1À´àˇ Ëˆ‘^Ó∑+X´.«àêëÁÅ…‘>·örÙÛ≈9^'ˆ5›4Ê¢	c30W∏!Ü°ñ1$ná¶R>jÃ¥R« ÌX6>‘∆Ùæ—∑Ó¡qù#pA+∑ûﬁ‡˚jJ´ö—]vJ6jQt®{râW”ˆ˚SlWÈ*lOEEtıëåqÓ%hãÉ„êÛ£n⁄Ÿt5[MÁ®›µ±ƒ‡ŒÙyv◊¿¬Ò«Ú4'˙TÖ§FllbìèÔöz∂æFUx‚/º.HR›˝™˘‘»l4ˆ'Øá‚2"ˇ Rálº(¨4lå1(U$‡»3†ı⁄ˇ ;/Ë©qöÆææd1F›“û"[?Zm∂‹1≈ËF#EO·F5µÌ9‚7>NpÙ∫=ÛùM`ÅÏóëé5GgÜJ0c,3!‰s¸kŸ≠¶èaçu˛^∫ñÂ%8¿¶`^<|˚ëÆÈh&úâu√)≠ÊhÛw÷Ö=:È·›¬3!¥mìÍÃÑ;ÅÂ∂s€O~«¸=m∫5ûKÍª”òÀÀ˝móœ÷≠˚Z¬(€ë—™˜ÓtR∂∆»9èrƒÍo√ W¡ëò÷,\:Mp±…U@á—ØµU4có`˛ôÌü¶∆º*w|Tq *∂´ö°‡D
+≥|Ü±≠oÎ'FSvS≠∂%[¨1Öí?ÒHæ3·«˚uû˜õ:ÊE(C£îtaÜV°p\ÈóLí≈æ&$ƒ˘#èYß-
+{}J›^9
+J /◊ﬁ)Zÿ6 ªñ¸å‘ø°Swfà˚|/$Q˚„æôvπŸ'ù*ùDäƒå)„ØûÙÆ¢≥~mv¶bYkDÚ7¬∆6úÒ”Ëd™©2¿Lçûﬁ˙DÒ;”wfXt≠¥|(„Ãm÷ıG{”q˜ŸÊÄt7ò´÷)$åf3ÿ´v:õ5*	‡Åó‰jslœ“£2“ª 9è‡-Wõm5:≈-\jÍH I«€∑Œ¥§VT(n´Z))On‹Äˇ Å´U$†jWS±¿‘∆ºASpŒb9S†?V:A∫•{ï≤e§∫1PﬂËœè/ﬂcFbÁ\Ø#êuŒ‘4À{ÿåS∆O»>≈tl5+ãVXd*√˝çzc“Ÿ‚z⁄Ÿcû·2 gå+Ô≈I˜œì´E‚ç%ç˘ZÍ%vÓNuYÆcÜ‘∫uÑp§0¶‘QPj7”^NÛL˚ù©fﬁ÷¡NÖ d>Ü≥™}"™éµ®g)·Ò‡ì‰~„Z¡Ω‘d“ë_EcFÚÇYT† „≤±R 3U¢bΩWˇŸ
+------MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: binary
+Content-Location: https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=60&h=60&fit=crop&crop=face
+
+ˇÿˇ‡ JFIF  H H  ˇ‚XICC_PROFILE   HLino  mntrRGB XYZ Œ  	  1  acspMSFT    IEC sRGB             ˆ÷     ”-HP                                                 cprt  P   3desc  Ñ   lwtpt     bkpt     rXYZ     gXYZ  ,   bXYZ  @   dmnd  T   pdmdd  ƒ   àvued  L   Üview  ‘   $lumi  ¯   meas     $tech  0   rTRC  <  gTRC  <  bTRC  <  text    Copyright (c) 1998 Hewlett-Packard Company  desc       sRGB IEC61966-2.1           sRGB IEC61966-2.1                                                  XYZ       ÛQ    ÃXYZ                 XYZ       o¢  8ı  êXYZ       bô  ∑Ö  ⁄XYZ       $†  Ñ  ∂œdesc       IEC http://www.iec.ch           IEC http://www.iec.ch                                              desc       .IEC 61966-2.1 Default RGB colour space - sRGB           .IEC 61966-2.1 Default RGB colour space - sRGB                      desc       ,Reference Viewing Condition in IEC61966-2.1           ,Reference Viewing Condition in IEC61966-2.1                          view     §˛ _. œ ÌÃ  \û   XYZ      L	V P   WÁmeas                         è   sig     CRT curv           
+     # ( - 2 7 ; @ E J O T Y ^ c h m r w | Å Ü ã ê ï ö ü § © Æ ≤ ∑ º ¡ ∆ À – ’ € ‡ Â Î  ˆ ˚%+28>ELRY`gnu|Éãíö°©±π¡…—Ÿ·ÈÚ˙&/8AKT]gqzÑéò¢¨∂¡À’‡Îı !-8COZfr~äñ¢Æ∫«”‡Ï˘ -;HUcq~åö®∂ƒ”·˛+:IXgwÜñ¶µ≈’Âˆ'7HYj{åùØ¿—„ı+=OatÜô¨ø“Â¯2FZnÇñ™æ“Á˚		%	:	O	d	y	è	§	∫	œ	Â	˚
+
+'
+=
+T
+j
+Å
+ò
+Æ
+≈
+‹
+Û"9QiÄò∞»·˘*C\uéß¿ŸÛ&@Zté©√ﬁ¯.Idõ∂“Ó	%A^zñ≥œÏ	&Ca~õπ◊ı1Omå™…Ë&EdÑ£√„#CcÉ§≈Â'Ijã≠Œ4VxõΩ‡&Ilè≤÷˙AeâÆ“˜@eäØ’˙ Ekë∑›*Qwû≈Ï;cä≤⁄*R{£ÃıGpô√Ï@jîæÈ>iîøÍ  A l ò ƒ !!H!u!°!Œ!˚"'"U"Ç"Ø"›#
+#8#f#î#¬#$$M$|$´$⁄%	%8%h%ó%«%˜&'&W&á&∑&Ë''I'z'´'‹((?(q(¢(‘))8)k)ù)–**5*h*õ*œ++6+i+ù+—,,9,n,¢,◊--A-v-´-·..L.Ç.∑.Ó/$/Z/ë/«/˛050l0§0€11J1Ç1∫1Ú2*2c2õ2‘33F33∏3Ò4+4e4û4ÿ55M5á5¬5˝676r6Æ6È7$7`7ú7◊88P8å8»99B99º9˘:6:t:≤:Ô;-;k;™;Ë<'<e<§<„="=a=°=‡> >`>†>‡?!?a?¢?‚@#@d@¶@ÁA)AjA¨AÓB0BrBµB˜C:C}C¿DDGDäDŒEEUEöEﬁF"FgF´FG5G{G¿HHKHëH◊IIcI©IJ7J}JƒKKSKöK‚L*LrL∫MMJMìM‹N%NnN∑O OIOìO›P'PqPªQQPQõQÊR1R|R«SS_S™SˆTBTèT€U(UuU¬VV\V©V˜WDWíW‡X/X}XÀYYiY∏ZZVZ¶Zı[E[ï[Â\5\Ü\÷]']x]…^^l^Ω__a_≥``W`™`¸aOa¢aıbIbúbcCcócÎd@dîdÈe=eíeÁf=fífËg=gìgÈh?hñhÏiCiöiÒjHjüj˜kOkßkˇlWlØmm`mπnnknƒooxo—p+pÜp‡q:qïqrKr¶ss]s∏ttptÃu(uÖu·v>võv¯wVw≥xxnxÃy*yâyÁzFz•{{c{¬|!|Å|·}A}°~~b~¬#ÑÂÄGÄ®Å
+ÅkÅÕÇ0ÇíÇÙÉWÉ∫ÑÑÄÑ„ÖGÖ´ÜÜrÜ◊á;áüààiàŒâ3âôâ˛ädä ã0ãñã¸åcå ç1çòçˇéféŒè6èûêênê÷ë?ë®íízí„ìMì∂î îäîÙï_ï…ñ4ñüó
+óuó‡òLò∏ô$ôêô¸öhö’õBõØúúâú˜ùdù“û@ûÆüüãü˙†i†ÿ°G°∂¢&¢ñ££v£Ê§V§«•8•©¶¶ã¶˝ßnß‡®R®ƒ©7©©™™è´´u´È¨\¨–≠D≠∏Æ-Æ°ØØã∞ ∞u∞Í±`±÷≤K≤¬≥8≥Æ¥%¥úµµä∂∂y∂∑h∑‡∏Y∏—πJπ¬∫;∫µª.ªßº!ºõΩΩèæ
+æÑæˇøzøı¿p¿Ï¡g¡„¬_¬€√X√‘ƒQƒŒ≈K≈»∆F∆√«A«ø»=»º…:…π 8 ∑À6À∂Ã5ÃµÕ5ÕµŒ6Œ∂œ7œ∏–9–∫—<—æ“?“¡”D”∆‘I‘À’N’—÷U÷ÿ◊\◊‡ÿdÿËŸlŸÒ⁄v⁄˚€Ä‹‹ä››ñﬁﬁ¢ﬂ)ﬂØ‡6‡Ω·D·Ã‚S‚€„c„Î‰s‰¸ÂÑÊÊñÁÁ©Ë2ËºÈFÈ–Í[ÍÂÎpÎ˚ÏÜÌÌúÓ(Ó¥Ô@ÔÃXÂÒrÒˇÚåÛÛßÙ4Ù¬ıPıﬁˆmˆ˚˜ä¯¯®˘8˘«˙W˙Á˚w¸¸ò˝)˝∫˛K˛‹ˇmˇˇˇ€ Ñ 
+
+
+
+
+
+""+)+88K
+
+
+
+
+
+""+)+88Kˇ¿  < <" ˇƒ              	        !Q"12	#Aaq$RÅ°¢                       1A!aÅˇ⁄   ? 4âq≈∆å8‚º£E=®Ü4C«d£S…®£µH7 v©bT´0îpI4`êæE8∆+ëÀz{QZ¢®{äÂr9ÌBÙåÒQ.DN}®“DzÑqèUtúÌÉ8‚äb€≤—lÅúqGê-9äÈ–Uõi‚ºlØ@{T|«“⁄a∑Ö+`yk$Ä;‡'⁄öåŸr>5X˙Öfál÷±ªS|€±˜◊µ)JêÊHQ
+«(Œ •?4Ï1\+Ib=„ï#Á’ŸUÄÈ£”^H≥yF•@ò“Òπ@≤‚VïÑÓhl2óôm‘J–?Ç3@:œNÈvZ≤⁄C´ñÿmm%Mπí¨íÜ€⁄I'‹˛¥ˆEù,0”`BFaä]«Øv[T≥0…å˘nUeN:€W…◊≥2!‘±ÜÍfœÖåÒAœ«¬ÕiÊ>ÿ≠€Ä‚övª.Bx°˝7„≈ﬁı£JŸ'^.“”F˜∫‚π˝Ä rTO 
+É@í±¨c"≤'ƒ∑X56≥◊çŸ¥!Ü€÷	.6$©‡°?pN8·-®bÜ∫Î‚˜QÎ«d¬∑»r◊e$•1öV◊üOw÷ûˇ ÿ8™ÄÙgô~+•á⁄PS/∑¬€#µ(ÕªÚ£"ù~»ÿ3ﬂÉp«æª'©ÙtÜièM‹öÕ”O]ı≈Õoöf2í¸LºÚ∂† ˆŒ2kAÁiı'<V/Æ79˙BÌk∫@DÎìÆ£ÀMNÀdÇ‡u) p§”É§æ25¶ñD8∑óçÍ‹ÿZ?’6ûÌΩ˙„≤Î«¡±íƒ∞∑ÿ"3‰îÂ€C‘Ã@¨€Œ˜ÓiM⁄◊¥)y&‰4‚èuÅ~¥[Óê˚±f«DÜÌπäóÚ+Jßbg£I∂⁄°ˇ S^£ãu´CÈÜXr\áÆr@¯c'Ì!+˛VºäæöDÁmc‘Ç{Óı≠,-d∂Œù∂Ñ'∂˜&® ˙FÖe5jÙØRΩE3pKÉÉI[ãÎ…‚F?¬±DñÈn•#
+•lÉR`∆òú‹kÆ=….dg#πjSä€ìQs'æ– ån®uíõ◊‡ØTãÁH-M≠@πnô.
+ád°“∂ˇ ·Bù3R™™ÙŒπæÊó◊Ã)y@π«|Àuù™ˇ H´”pY˚ ßXﬂu¨®œˇŸ
+------MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://127.0.0.1:13959/main/0/storage/emulated/0/Download/microservices_styles.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: rgb(31, 41, 55); background-color: rgb(255, 255, 255); }
+
+.container { max-width: 1200px; margin: 0px auto; padding: 0px 20px; }
+
+.header { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-bottom: 1px solid rgb(229, 231, 235); position: fixed; top: 0px; left: 0px; right: 0px; z-index: 1000; padding: 1rem 0px; }
+
+.nav { display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0px auto; padding: 0px 20px; }
+
+.nav-brand { display: flex; align-items: center; gap: 12px; }
+
+.logo { width: 40px; height: 40px; border-radius: 8px; }
+
+.brand-name { font-size: 1.5rem; font-weight: 700; color: rgb(0, 212, 255); }
+
+.nav-links { display: flex; align-items: center; gap: 2rem; }
+
+.nav-link { text-decoration: none; color: rgb(107, 114, 128); font-weight: 500; transition: color 0.3s; }
+
+.nav-link:hover { color: rgb(0, 212, 255); }
+
+.btn-demo { background: linear-gradient(135deg, rgb(0, 212, 255) 0%, rgb(14, 165, 233) 100%); color: white; border: none; padding: 12px 24px; border-radius: 8px; font-weight: 600; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; }
+
+.btn-demo:hover { transform: translateY(-2px); box-shadow: rgba(0, 212, 255, 0.3) 0px 10px 25px; }
+
+.hero { padding: 120px 0px 80px; background: linear-gradient(135deg, rgb(248, 250, 252) 0%, rgb(226, 232, 240) 100%); position: relative; overflow: hidden; }
+
+.hero::before { content: ""; position: absolute; inset: 0px; background: url("data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><defs><pattern id=\"grid\" width=\"10\" height=\"10\" patternUnits=\"userSpaceOnUse\"><path d=\"M 10 0 L 0 0 0 10\" fill=\"none\" stroke=\"%23e2e8f0\" stroke-width=\"0.5\"/></pattern></defs><rect width=\"100\" height=\"100\" fill=\"url(%23grid)\"/></svg>"); opacity: 0.5; }
+
+.hero-content { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center; position: relative; z-index: 1; }
+
+.hero-title { font-size: 3.5rem; font-weight: 800; line-height: 1.1; margin-bottom: 1.5rem; color: rgb(31, 41, 55); }
+
+.highlight { background: linear-gradient(135deg, rgb(0, 212, 255) 0%, rgb(14, 165, 233) 100%) text; -webkit-text-fill-color: transparent; }
+
+.hero-subtitle { font-size: 1.25rem; color: rgb(107, 114, 128); margin-bottom: 2rem; line-height: 1.7; }
+
+.hero-stats { display: flex; gap: 2rem; margin-bottom: 2rem; }
+
+.stat { text-align: center; }
+
+.stat-number { display: block; font-size: 2rem; font-weight: 700; color: rgb(0, 212, 255); }
+
+.stat-label { font-size: 0.875rem; color: rgb(107, 114, 128); font-weight: 500; }
+
+.hero-cta { display: flex; gap: 1rem; margin-bottom: 2rem; }
+
+.btn-primary { background: linear-gradient(135deg, rgb(0, 212, 255) 0%, rgb(14, 165, 233) 100%); color: white; border: none; padding: 16px 32px; border-radius: 12px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: 0.3s; box-shadow: rgba(0, 212, 255, 0.3) 0px 4px 15px; }
+
+.btn-primary:hover { transform: translateY(-3px); box-shadow: rgba(0, 212, 255, 0.4) 0px 8px 25px; }
+
+.btn-secondary { background: white; color: rgb(55, 65, 81); border: 2px solid rgb(229, 231, 235); padding: 14px 30px; border-radius: 12px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: 0.3s; }
+
+.btn-secondary:hover { border-color: rgb(0, 212, 255); color: rgb(0, 212, 255); transform: translateY(-2px); }
+
+.trust-indicators { margin-top: 2rem; }
+
+.trust-text { font-size: 0.875rem; color: rgb(107, 114, 128); margin-bottom: 1rem; display: block; }
+
+.trust-logos { display: flex; gap: 1.5rem; align-items: center; }
+
+.trust-logos img { opacity: 0.6; transition: opacity 0.3s; }
+
+.trust-logos img:hover { opacity: 1; }
+
+.hero-visual { display: flex; justify-content: center; align-items: center; }
+
+.architecture-diagram { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; max-width: 400px; }
+
+.microservice-node { background: white; border: 2px solid rgb(229, 231, 235); border-radius: 16px; padding: 1.5rem; text-align: center; transition: 0.3s; cursor: pointer; }
+
+.microservice-node:hover { border-color: rgb(0, 212, 255); transform: translateY(-5px); box-shadow: rgba(0, 212, 255, 0.15) 0px 10px 25px; }
+
+.microservice-node.active { border-color: rgb(0, 212, 255); background: linear-gradient(135deg, rgba(0, 212, 255, 0.063) 0%, rgba(14, 165, 233, 0.063) 100%); }
+
+.node-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+
+.microservice-node span { font-size: 0.875rem; font-weight: 600; color: rgb(55, 65, 81); }
+
+.problem { padding: 80px 0px; background: rgb(249, 250, 251); }
+
+.section-title { font-size: 2.5rem; font-weight: 700; text-align: center; margin-bottom: 3rem; color: rgb(31, 41, 55); }
+
+.problem-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; }
+
+.problem-item { background: white; padding: 2rem; border-radius: 16px; text-align: center; border: 1px solid rgb(229, 231, 235); transition: transform 0.3s, box-shadow 0.3s; }
+
+.problem-item:hover { transform: translateY(-5px); box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 25px; }
+
+.problem-icon { font-size: 3rem; margin-bottom: 1rem; }
+
+.problem-item h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem; color: rgb(31, 41, 55); }
+
+.problem-item p { color: rgb(107, 114, 128); line-height: 1.6; }
+
+.solution { padding: 80px 0px; background: white; }
+
+.solution-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }
+
+.solution-item { background: linear-gradient(135deg, rgb(248, 250, 252) 0%, rgb(241, 245, 249) 100%); padding: 2.5rem; border-radius: 20px; border: 1px solid rgb(226, 232, 240); transition: 0.3s; }
+
+.solution-item:hover { transform: translateY(-8px); box-shadow: rgba(0, 212, 255, 0.1) 0px 20px 40px; border-color: rgb(0, 212, 255); }
+
+.solution-icon { font-size: 3rem; margin-bottom: 1.5rem; }
+
+.solution-item h3 { font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; color: rgb(31, 41, 55); }
+
+.solution-item p { color: rgb(107, 114, 128); margin-bottom: 1.5rem; line-height: 1.7; }
+
+.feature-list { list-style: none; }
+
+.feature-list li { color: rgb(55, 65, 81); margin-bottom: 0.5rem; font-size: 0.9rem; }
+
+.roi-calculator { padding: 80px 0px; background: linear-gradient(135deg, rgb(30, 41, 59) 0%, rgb(51, 65, 85) 100%); color: white; }
+
+.roi-calculator .section-title { color: white; }
+
+.calculator-container { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; max-width: 1000px; margin: 0px auto; }
+
+.calculator-form { background: rgba(255, 255, 255, 0.1); padding: 2.5rem; border-radius: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
+
+.calculator-form h3 { font-size: 1.5rem; margin-bottom: 2rem; color: white; }
+
+.form-group { margin-bottom: 1.5rem; }
+
+.form-group label { display: block; margin-bottom: 0.5rem; font-weight: 500; color: rgb(226, 232, 240); }
+
+.form-group input { width: 100%; padding: 12px 16px; border: 1px solid rgba(255, 255, 255, 0.3); border-radius: 8px; background: rgba(255, 255, 255, 0.1); color: white; font-size: 1rem; }
+
+.form-group input::placeholder { color: rgba(255, 255, 255, 0.6); }
+
+.btn-calculate { width: 100%; background: linear-gradient(135deg, rgb(0, 212, 255) 0%, rgb(14, 165, 233) 100%); color: white; border: none; padding: 16px; border-radius: 12px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: 0.3s; }
+
+.btn-calculate:hover { transform: translateY(-2px); box-shadow: rgba(0, 212, 255, 0.4) 0px 8px 25px; }
+
+.calculator-results { background: rgba(255, 255, 255, 0.1); padding: 2.5rem; border-radius: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
+
+.calculator-results h3 { font-size: 1.5rem; margin-bottom: 2rem; color: white; }
+
+.result-item { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+
+.result-item.highlight { background: rgba(0, 212, 255, 0.1); padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(0, 212, 255, 0.3); margin: 1rem 0px; }
+
+.result-label { color: rgb(226, 232, 240); font-weight: 500; }
+
+.result-value { color: rgb(0, 212, 255); font-weight: 700; font-size: 1.25rem; }
+
+.pricing { padding: 80px 0px; background: rgb(249, 250, 251); }
+
+.pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; max-width: 1200px; margin: 0px auto; }
+
+.pricing-card { background: white; border-radius: 20px; padding: 2.5rem; border: 2px solid rgb(229, 231, 235); transition: 0.3s; position: relative; }
+
+.pricing-card:hover { transform: translateY(-8px); box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px; }
+
+.pricing-card.featured { border-color: rgb(0, 212, 255); transform: scale(1.05); box-shadow: rgba(0, 212, 255, 0.2) 0px 20px 40px; }
+
+.pricing-badge { position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: linear-gradient(135deg, rgb(0, 212, 255) 0%, rgb(14, 165, 233) 100%); color: white; padding: 8px 24px; border-radius: 20px; font-size: 0.875rem; font-weight: 600; }
+
+.pricing-header { text-align: center; margin-bottom: 2rem; }
+
+.pricing-header h3 { font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; color: rgb(31, 41, 55); }
+
+.price { display: flex; align-items: baseline; justify-content: center; margin-bottom: 1rem; }
+
+.currency { font-size: 1.25rem; color: rgb(107, 114, 128); }
+
+.amount { font-size: 3rem; font-weight: 800; color: rgb(31, 41, 55); margin: 0px 0.25rem; }
+
+.period { font-size: 1rem; color: rgb(107, 114, 128); }
+
+.pricing-description { color: rgb(107, 114, 128); margin-bottom: 2rem; }
+
+.pricing-features { list-style: none; margin-bottom: 2rem; }
+
+.pricing-features li { padding: 0.5rem 0px; color: rgb(55, 65, 81); font-size: 0.95rem; }
+
+.btn-pricing { width: 100%; padding: 16px; border-radius: 12px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: 0.3s; border: 2px solid rgb(229, 231, 235); background: white; color: rgb(55, 65, 81); }
+
+.btn-pricing:hover { border-color: rgb(0, 212, 255); color: rgb(0, 212, 255); transform: translateY(-2px); }
+
+.btn-pricing.primary { background: linear-gradient(135deg, rgb(0, 212, 255) 0%, rgb(14, 165, 233) 100%); color: white; border-color: transparent; }
+
+.btn-pricing.primary:hover { transform: translateY(-2px); box-shadow: rgba(0, 212, 255, 0.4) 0px 8px 25px; }
+
+.use-cases { padding: 80px 0px; background: white; }
+
+.use-cases-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; }
+
+.use-case-item { background: linear-gradient(135deg, rgb(248, 250, 252) 0%, rgb(241, 245, 249) 100%); padding: 2.5rem; border-radius: 20px; border: 1px solid rgb(226, 232, 240); transition: 0.3s; }
+
+.use-case-item:hover { transform: translateY(-5px); box-shadow: rgba(0, 212, 255, 0.1) 0px 15px 30px; border-color: rgb(0, 212, 255); }
+
+.use-case-icon { font-size: 3rem; margin-bottom: 1.5rem; }
+
+.use-case-item h3 { font-size: 1.25rem; font-weight: 700; margin-bottom: 1rem; color: rgb(31, 41, 55); }
+
+.use-case-item p { color: rgb(107, 114, 128); margin-bottom: 1.5rem; line-height: 1.6; }
+
+.use-case-item ul { list-style: none; }
+
+.use-case-item li { color: rgb(55, 65, 81); margin-bottom: 0.5rem; font-size: 0.9rem; padding-left: 1rem; position: relative; }
+
+.use-case-item li::before { content: "‚Ä¢"; color: rgb(0, 212, 255); position: absolute; left: 0px; font-weight: bold; }
+
+.testimonials { padding: 80px 0px; background: rgb(249, 250, 251); }
+
+.testimonials-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2rem; }
+
+.testimonial-item { background: white; padding: 2.5rem; border-radius: 20px; border: 1px solid rgb(229, 231, 235); transition: 0.3s; }
+
+.testimonial-item:hover { transform: translateY(-5px); box-shadow: rgba(0, 0, 0, 0.1) 0px 15px 30px; }
+
+.testimonial-content { margin-bottom: 2rem; }
+
+.testimonial-content p { font-size: 1.1rem; line-height: 1.7; color: rgb(55, 65, 81); font-style: italic; }
+
+.testimonial-author { display: flex; align-items: center; gap: 1rem; }
+
+.testimonial-author img { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; }
+
+.author-name { font-weight: 600; color: rgb(31, 41, 55); display: block; }
+
+.author-role { color: rgb(107, 114, 128); font-size: 0.9rem; }
+
+.cta { padding: 80px 0px; background: linear-gradient(135deg, rgb(30, 41, 59) 0%, rgb(51, 65, 85) 100%); color: white; text-align: center; }
+
+.cta-content h2 { font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; }
+
+.cta-content p { font-size: 1.25rem; color: rgb(226, 232, 240); margin-bottom: 2.5rem; max-width: 600px; margin-left: auto; margin-right: auto; }
+
+.cta-buttons { display: flex; gap: 1.5rem; justify-content: center; margin-bottom: 2rem; }
+
+.btn-primary.large, .btn-secondary.large { padding: 20px 40px; font-size: 1.1rem; }
+
+.cta-guarantee { display: flex; gap: 2rem; justify-content: center; color: rgb(148, 163, 184); font-size: 0.9rem; }
+
+.footer { background: rgb(31, 41, 55); color: white; padding: 60px 0px 30px; }
+
+.footer-content { display: grid; grid-template-columns: 1fr 2fr; gap: 3rem; margin-bottom: 3rem; }
+
+.footer-brand { display: flex; flex-direction: column; gap: 1rem; }
+
+.footer-brand .brand-name { color: rgb(0, 212, 255); }
+
+.footer-brand p { color: rgb(156, 163, 175); line-height: 1.6; }
+
+.footer-links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
+
+.footer-column h4 { font-weight: 600; margin-bottom: 1rem; color: white; }
+
+.footer-column a { display: block; color: rgb(156, 163, 175); text-decoration: none; margin-bottom: 0.5rem; transition: color 0.3s; }
+
+.footer-column a:hover { color: rgb(0, 212, 255); }
+
+.footer-bottom { display: flex; justify-content: space-between; align-items: center; padding-top: 2rem; border-top: 1px solid rgb(55, 65, 81); color: rgb(156, 163, 175); }
+
+.footer-legal { display: flex; gap: 2rem; }
+
+.footer-legal a { color: rgb(156, 163, 175); text-decoration: none; transition: color 0.3s; }
+
+.footer-legal a:hover { color: rgb(0, 212, 255); }
+
+.modal { display: none; position: fixed; z-index: 2000; left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); backdrop-filter: blur(5px); }
+
+.modal-content { background-color: white; margin: 5% auto; padding: 3rem; border-radius: 20px; width: 90%; max-width: 500px; position: relative; animation: 0.3s ease 0s 1 normal none running modalSlideIn; }
+
+@keyframes modalSlideIn { 
+  0% { opacity: 0; transform: translateY(-50px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.close { position: absolute; right: 20px; top: 20px; font-size: 2rem; font-weight: bold; cursor: pointer; color: rgb(156, 163, 175); transition: color 0.3s; }
+
+.close:hover { color: rgb(55, 65, 81); }
+
+.demo-form h2 { font-size: 1.75rem; font-weight: 700; margin-bottom: 2rem; color: rgb(31, 41, 55); text-align: center; }
+
+.demo-form .form-group { margin-bottom: 1.5rem; }
+
+.demo-form label { display: block; margin-bottom: 0.5rem; font-weight: 500; color: rgb(55, 65, 81); }
+
+.demo-form input, .demo-form select { width: 100%; padding: 12px 16px; border: 2px solid rgb(229, 231, 235); border-radius: 8px; font-size: 1rem; transition: border-color 0.3s; }
+
+.demo-form input:focus, .demo-form select:focus { outline: none; border-color: rgb(0, 212, 255); }
+
+@media (max-width: 768px) {
+  .hero-content { grid-template-columns: 1fr; text-align: center; }
+  .hero-title { font-size: 2.5rem; }
+  .hero-cta { flex-direction: column; align-items: center; }
+  .calculator-container { grid-template-columns: 1fr; }
+  .pricing-grid { grid-template-columns: 1fr; }
+  .pricing-card.featured { transform: none; }
+  .cta-buttons { flex-direction: column; align-items: center; }
+  .cta-guarantee { flex-direction: column; align-items: center; gap: 1rem; }
+  .footer-content { grid-template-columns: 1fr; }
+  .footer-links { grid-template-columns: 1fr; }
+  .footer-bottom { flex-direction: column; gap: 1rem; text-align: center; }
+  .nav-links { display: none; }
+}
+
+@media (max-width: 480px) {
+  .hero-title { font-size: 2rem; }
+  .section-title { font-size: 2rem; }
+  .modal-content { margin: 10% auto; padding: 2rem; }
+}
+
+.fade-in { animation: 0.6s ease-in-out 0s 1 normal none running fadeIn; }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; transform: translateY(30px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.slide-up { animation: 0.8s ease-out 0s 1 normal none running slideUp; }
+
+@keyframes slideUp { 
+  0% { opacity: 0; transform: translateY(50px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.text-center { text-align: center; }
+
+.mb-2 { margin-bottom: 1rem; }
+
+.mb-4 { margin-bottom: 2rem; }
+
+.mt-4 { margin-top: 2rem; }
+
+.hidden { display: none; }
+
+.visible { display: block; }
+------MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-e22fd68e-a2ea-445d-9b2e-35123dbbfbc8@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes slideInRight { 
+  0% { transform: translateX(100%); opacity: 0; }
+  100% { transform: translateX(0px); opacity: 1; }
+}
+
+@keyframes slideOutRight { 
+  0% { transform: translateX(0px); opacity: 1; }
+  100% { transform: translateX(100%); opacity: 0; }
+}
+
+@keyframes pulse { 
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.notification-content { display: flex; align-items: center; gap: 0.75rem; }
+
+.notification-close { background: none; border: none; color: white; font-size: 1.25rem; cursor: pointer; padding: 0px; margin-left: auto; }
+
+.notification-close:hover { opacity: 0.8; }
+------MultipartBoundary--h6NBLpKMzqTV9KDF5AYcso4qD8SfOSZP5wB12MhPzx------

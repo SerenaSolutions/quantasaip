@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To-Do List with Local Storage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 350px;
+            margin: 60px auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.09);
+            padding: 32px 24px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 18px;
+            color: #333;
+        }
+        form {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 18px;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 8px;
+            font-size: 16px;
+        }
+        button {
+            padding: 8px 16px;
+            font-size: 16px;
+            background: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 2px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            background: #f9f9f9;
+            margin-bottom: 8px;
+            padding: 10px 8px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 16px;
+        }
+        li.completed {
+            text-decoration: line-through;
+            color: #888;
+            background: #e0e0e0;
+        }
+        .delete-btn {
+            background: transparent;
+            color: #d11a2a;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>To-Do List</h1>
+        <form id="todo-form" autocomplete="off">
+            <input type="text" id="todo-input" placeholder="Add a new task..." required>
+            <button type="submit">Add</button>
+        </form>
+        <ul id="todo-list"></ul>
+    </div>
+    <script>
+        // DOM elements
+        const todoForm = document.getElementById('todo-form');
+        const todoInput = document.getElementById('todo-input');
+        const todoList = document.getElementById('todo-list');
+
+        // Recupera todos do localStorage
+        function getTodos() {
+            return JSON.parse(localStorage.getItem('todos') || '[]');
+        }
+
+        // Salva todos no localStorage
+        function saveTodos(todos) {
+            localStorage.setItem('todos', JSON.stringify(todos));
+        }
+
+        // Renderiza todos na tela
+        function renderTodos() {
+            const todos = getTodos();
+            todoList.innerHTML = '';
+            todos.forEach((todo, index) => {
+                const li = document.createElement('li');
+                li.className = todo.completed ? 'completed' : '';
+                li.innerHTML = `
+                    <span class="todo-text">${todo.text}</span>
+                    <div>
+                        <button class="delete-btn" data-index="${index}" title="Delete">&#10006;</button>
+                    </div>
+                `;
+                li.addEventListener('click', function(e) {
+                    // Não alterna completed se clicar no botão de deletar
+                    if (e.target.classList.contains('delete-btn')) return;
+                    toggleCompleted(index);
+                });
+                todoList.appendChild(li);
+            });
+        }
+
+        // Adiciona novo todo
+        todoForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            const text = todoInput.value.trim();
+            if (text === '') return;
+            const todos = getTodos();
+            todos.push({ text, completed: false });
+            saveTodos(todos);
+            todoInput.value = '';
+            renderTodos();
+        });
+
+        // Deleta todo ao clicar no botão
+        todoList.addEventListener('click', function(e) {
+            if (e.target.classList.contains('delete-btn')) {
+                const index = e.target.getAttribute('data-index');
+                deleteTodo(index);
+            }
+        });
+
+        // Marca/desmarca como concluído
+        function toggleCompleted(index) {
+            const todos = getTodos();
+            todos[index].completed = !todos[index].completed;
+            saveTodos(todos);
+            renderTodos();
+        }
+
+        // Deleta todo
+        function deleteTodo(index) {
+            const todos = getTodos();
+            todos.splice(index, 1);
+            saveTodos(todos);
+            renderTodos();
+        }
+
+        // Render inicial
+        renderTodos();
+    </script>
+</body>
+</html>
